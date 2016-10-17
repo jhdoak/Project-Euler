@@ -37,5 +37,5 @@ var addEvens = function(array){
   return evensSum;
 };
 
-console.log(populateFibonacci(1, 1, 1000));
+console.log(populateFibonacci(1, 1, 4000000));
 console.log(addEvens(fibonacci));
